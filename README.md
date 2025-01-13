@@ -1,9 +1,9 @@
-# Airbnb-Website 🌍
+# Airbnb-Website 
 
 ## Project Overview
 Developed a feature-rich full-stack web application inspired by Airbnb, leveraging the power of the **MongoDB, Express.js, and Node.js** stack.
 
-## 🛠️ Technologies & Packages Used
+## Technologies & Packages Used
 
 - **MongoDB**: NoSQL database for storing user and listing data.
 - **Express.js**: Backend web framework for handling HTTP requests and building RESTful APIs.
@@ -25,7 +25,7 @@ Developed a feature-rich full-stack web application inspired by Airbnb, leveragi
 - **Passport Google OAuth20**: Strategy for Google authentication.
 - **Passport Local Mongoose**: Mongoose plugin for user authentication.
 
-## 🌟 Key Features
+## Key Features
 
 - **User Authentication**: Login, Logout, and User Profile management.
 - **CRUD Operations**: Add, Edit, and Delete Listings.
@@ -34,7 +34,7 @@ Developed a feature-rich full-stack web application inspired by Airbnb, leveragi
 - **User Data Security**: Password Hashing and Encryption using best practices.
 - **Interactive Maps**: Utilize Mapbox for dynamic location visualization.
 
-## 🚧 Challenges & Solutions
+## Challenges & Solutions
 
 Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
 
